@@ -1,0 +1,14 @@
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\bin\Debug\net8.0\CourseMod10Ex146.exe
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\bin\Debug\net8.0\CourseMod10Ex146.deps.json
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\bin\Debug\net8.0\CourseMod10Ex146.runtimeconfig.json
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\bin\Debug\net8.0\CourseMod10Ex146.dll
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\bin\Debug\net8.0\CourseMod10Ex146.pdb
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\obj\Debug\net8.0\CourseMod10Ex146.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\obj\Debug\net8.0\CourseMod10Ex146.AssemblyInfoInputs.cache
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\obj\Debug\net8.0\CourseMod10Ex146.AssemblyInfo.cs
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\obj\Debug\net8.0\CourseMod10Ex146.csproj.CoreCompileInputs.cache
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\obj\Debug\net8.0\CourseMod10Ex146.dll
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\obj\Debug\net8.0\refint\CourseMod10Ex146.dll
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\obj\Debug\net8.0\CourseMod10Ex146.pdb
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\obj\Debug\net8.0\CourseMod10Ex146.genruntimeconfig.cache
+D:\Alritom\Course POO\Exercícios\CourseMod10Ex147\CourseMod10Ex147\obj\Debug\net8.0\ref\CourseMod10Ex146.dll
